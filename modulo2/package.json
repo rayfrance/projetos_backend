@@ -1,0 +1,14 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "Esta aplicação se refere ao módulo 2 da turma backend do SENAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
