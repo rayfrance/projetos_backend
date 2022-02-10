@@ -24,7 +24,9 @@ if (genero == "F" || genero == "M") {
     }else if (generoObs == "C" && genero == "M"){
         console.log("Obrigada pelas informações e aproveite!")
     }
-} else {
+} else if (genero == "NB") {
     console.log("Aqui você está protegido! Temos uma política forte e presente contra LGBTQIA+ fobia!")
+} else {
+    console.log("Digite um gênero dentre as opções, por favor")
 }
 
